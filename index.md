@@ -1,3 +1,3 @@
-A website for my favourite character is currently being built here!
+# My favorite character
 
 This website shows a description of my favorite character
